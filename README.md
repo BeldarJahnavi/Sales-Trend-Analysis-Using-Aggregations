@@ -1,4 +1,5 @@
 SQL Aggregation and Grouping Analysis on Online Sales
+
 📌 Overview
 
 This project demonstrates the use of SQL aggregation functions such as SUM() and COUNT(), combined with GROUP BY and ORDER BY clauses, to analyze online sales transaction data. The dataset focuses on order-level data and enables analysis of revenue and order volume across different time dimensions.
